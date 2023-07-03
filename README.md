@@ -1,6 +1,6 @@
-### Hello World! 👋🏼
+### Hello, World! 👋🏼
 
-On my profile you will find a bunch of random stuff about things I learned and like to share, such as school projects and open source code I want to share with the community.
+Welcome to my GitHub profile! Here, you'll discover a diverse collection of my learning experiences and interests that I'm eager to share. These include school projects and open-source code that I've made available to the community.
 
-- 🎥 I do live streams on Twitch.tv with live coding, and everything that comes to my mind like games or even miniature painting.
-- 🌱 I’m currently learning microservices and robust software archtecture design.
+- 🎥 I host live streams on [Twitch.tv](https://www.twitch.tv/arthur_proc), where you can join me for live coding sessions, gaming, and even miniature painting adventures.
+- 🌱 I’m currently diving into the world of microservices and focused on mastering robust software architecture design.
